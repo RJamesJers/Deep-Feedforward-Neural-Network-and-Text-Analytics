@@ -13,3 +13,5 @@ Tasks undertaken:
 - Embed Vectors using Word2Vec
 - Identify 10 Most similar words to "Law"
 - Evaluate the Embeddings of both the Sum of and Average of Vectors
+
+# Takeaways / Findings:
