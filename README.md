@@ -5,7 +5,7 @@
 ### 1. Using a Deep Neural Network to classify images of text
 Tasks undertaken:
 - Reshaping + Rescaling Data
-- Train / Test SPlit using StratifiedShuffleSplit
+- Train / Test Split using StratifiedShuffleSplit
 - Constructing a Deep Feedforward Neural Network using Tensorflow
 
 ### 2. Using Word2Vec to classify documents
