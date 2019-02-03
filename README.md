@@ -15,3 +15,4 @@ Tasks undertaken:
 - Evaluate the embeddings of both the Sum of and Average of Vectors
 
 # Takeaways / Findings:
+- The Deep Neural Network was able to reach a accuracies of 95% in Training and 90% in Tests by the 50th Epoch
